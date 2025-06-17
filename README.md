@@ -51,7 +51,7 @@ Sistematik düşünmeyi, performans odaklı yazılım mimarilerini ve teknik pro
 
 ## 📫 İletişim
 
-- 📧 E-posta: dogukan@example.com *(yerine gerçek adresini yazabilirsin)*
+- 📧 E-posta: dogukanaksy@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/dogukanaksoy](https://www.linkedin.com/in/dogukanaksoy)
 - 🧠 Dev.to / Blog: yakında...
 
