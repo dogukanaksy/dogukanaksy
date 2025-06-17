@@ -52,7 +52,7 @@ Sistematik düşünmeyi, performans odaklı yazılım mimarilerini ve teknik pro
 ## 📫 İletişim
 
 - 📧 E-posta: dogukanaksy@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/dogukanaksoy](https://www.linkedin.com/in/dogukanaksoy)
+- 💼 LinkedIn: [linkedin.com/in/dogukanaksoy](https://www.linkedin.com/in/dogukanaksy)
 - 🧠 Dev.to / Blog: yakında...
 
 ---
